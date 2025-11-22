@@ -1,5 +1,6 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
+
+**DATE: 09.08.2025**  
 ---
 
 ## AIM
@@ -96,6 +97,7 @@ Inverting amplifier:
 
 ---
 ### **Non-Inverting Amplifier**
+## **DATE: 19.08.2025**
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
@@ -143,6 +145,7 @@ PROCEDURE:
 
 ---
 ## DIFFERENTIAL AMPLIFIER
+## **DATE: 23.08.2025**
 
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
 It is useful in instrumentation applications.  
@@ -201,6 +204,7 @@ Choose  Rf = 20kohm, R1 = 20kohm
 
 ---
 ## INSTRUMENTATION AMPLIFIER
+## **DATE: 28.08.2025**
 
 THEORY:
 
